@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Pro X",
+        "descripcion": "Potente laptop para profesionales y creativos.",
+        "precio": 1200.0,
+        "stock": 14,
+        "imagen": "https://placehold.co/600x400/2d3748/ffffff?text=Laptop+Pro+X"
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse Inal\u00e1mbrico Ergo",
+        "descripcion": "Dise\u00f1o ergon\u00f3mico para m\u00e1xima comodidad.",
+        "precio": 45.5,
+        "stock": 29,
+        "imagen": "https://placehold.co/600x400/4a5568/ffffff?text=Mouse+Ergo"
+    },
+    {
+        "id": 3,
+        "nombre": "Teclado Mec\u00e1nico RGB",
+        "descripcion": "Retroiluminaci\u00f3n RGB y switches de alta precisi\u00f3n.",
+        "precio": 89.99,
+        "stock": 8,
+        "imagen": "https://placehold.co/600x400/718096/ffffff?text=Teclado+RGB"
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor UltraWide 34\"",
+        "descripcion": "Monitor curvo para una experiencia inmersiva.",
+        "precio": 450.0,
+        "stock": 11,
+        "imagen": "https://placehold.co/600x400/a0aec0/ffffff?text=Monitor+34"
+    }
+]
